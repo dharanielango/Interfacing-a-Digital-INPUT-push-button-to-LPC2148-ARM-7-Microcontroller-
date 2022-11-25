@@ -138,11 +138,11 @@ int main(void)
 
 ### Output:
 Before:
-![o]()
+![o](11.png)
 After:
-![o]()
+![o](22.png)
 Circuit Diagram:
-![o]()
+![o](33.png)
 ### Result :
 Interfacing a digital output with ARM microcontroller is executed 
 
