@@ -137,11 +137,11 @@ int main(void)
 ```
 
 ### Output:
-Before:
+#### Before:
 ![o](11.png)
-After:
+#### After:
 ![o](22.png)
-Circuit Diagram:
+#### Circuit Diagram:
 ![o](33.png)
 ### Result :
 Interfacing a digital output with ARM microcontroller is executed 
